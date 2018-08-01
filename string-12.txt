@@ -1,0 +1,16 @@
+* The Tor Project / support - gettor.json / string 12 *
+
+ORIGINAL TEXT
+-------------
+To get links for downloading Tor Browser, send a direct message to ​@get_tor
+with one of the following codes in it (you don't need to follow the account):
+Linux MacOS (OS X) Windows
+
+
+TRANSLATION
+-----------
+Чтобы получить ссылки на загрузку Tor Browser, отправьте сообщение на @get_tor
+с одним из следующих кодов (вам не нужно читать аккаунт): Linux MacOS (OS X) Windows
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
