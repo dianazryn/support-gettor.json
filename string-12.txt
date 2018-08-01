@@ -6,7 +6,6 @@ To get links for downloading Tor Browser, send a direct message to ​@get_tor
 with one of the following codes in it (you don't need to follow the account):
 Linux MacOS (OS X) Windows
 
-
 TRANSLATION
 -----------
 Чтобы получить ссылки на загрузку Tor Browser, отправьте сообщение на @get_tor
