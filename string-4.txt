@@ -1,0 +1,18 @@
+* The Tor Project / support - gettor.json / string 4 *
+
+ORIGINAL TEXT
+-------------
+If you can't download Tor through our ​website, you can get a copy of Tor delivered
+to you via GetTor. GetTor is a service that automatically responds to messages with
+links to the latest version of Tor Browser, hosted at a variety of locations that
+are less likely to be censored, such as Dropbox, Google Drive, and Github.
+
+TRANSLATION
+-----------
+Если Вы не можете скачать Tor через наш сайт, вы можете получить копию Tor через GetTor.
+GetTor - это услуга, которая автоматически отвечает на сообщения ссылками на последнюю
+версию Tor Browser, размещенные в различных местах, которые менее вероятно подвергаются
+цензуре, такие как Dropbox, Google Диск и Github.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
