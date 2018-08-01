@@ -1,0 +1,27 @@
+* The Tor Project / support - gettor.json / string 8 *
+
+ORIGINAL TEXT
+-------------
+Send an email to gettor@torproject.org. Write your operating system (such as windows,
+MacOS (OS X), or linux) in the body of the messageand send. GetTor will respond with
+an email containing links from which you can download Tor Browser, the cryptographic
+signature (needed for verifying the download) [link to glossary definition of
+cryptographic signature; instructions for verification], the fingerprint of the key
+used to make the signature, and the package’s checksum. You may be offered a choice
+of “32-bit” or “64-bit” software: this depends on the model of the computer you are
+using; consult documentation about your computer to find out more.
+
+TRANSLATION
+-----------
+Отправьте электронное письмо на gettor@torproject.org. Напишите название вашей
+операционной системы (например, Windows, macOS (ОS X) или Linux) в тексте сообщения
+и отправьте его. GetTor ответит электронным письмом, содержащим ссылки, через которые
+вы можете скачать Tor Browser, криптографическую подпись (необходима для проверки загрузки)
+[ссылка на определение криптографической подписи из глоссария; инструкции для проверки],
+отпечаток ключа, используемого для создания подписи и контрольную сумму пакета. Вам может
+быть предложено выбрать «32-bit» или «64-bit» версию программного обеспечения: это зависит
+от модели используемого вами компьютера; обратитесь к документации по вашему компьютеру,
+чтобы узнать больше.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
